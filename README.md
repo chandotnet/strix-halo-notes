@@ -6,6 +6,7 @@ Measurements and write-ups from a Framework Desktop (AMD Ryzen AI Max+ 395, "Str
 
 | Date | Post | Topics |
 |---|---|---|
+| 2026-11-24 | [Local French text-to-speech: which models can read a number?](posts/2026-11-24-french-tts-numbers.md) | Phonon, ZONOS3-Mini, Qwen3-TTS, Fish S2 Pro, Piper, Pocket TTS, NeuTTS, MOSS-TTS, whisper as a referee |
 | 2026-11-24 | [Strix Halo inference engines, measured on one box](posts/2026-11-24-inference-engines-compared.md) | Halogen, hipEngine, AMD HRX, llama.cpp Vulkan, Inkling 2 Mini, Gemma 4, benchmarking traps |
 
 ## The machine
