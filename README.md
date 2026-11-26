@@ -25,10 +25,14 @@ Measurements and write-ups from a Framework Desktop (AMD Ryzen AI Max+ 395, "Str
 - When a table says "same client", the numbers come from one HTTP client (streaming, greedy decoding, a nonce in each prompt to defeat prompt caches), which is what an application sees, rather than from each engine's own benchmark tool.
 - Quality checks use my own workloads (tool-calling agents, JSON extraction, French text). They are described but not published, because they replay private requests.
 
+## Benchmark scripts
+
+The speed scripts are in [bench/](bench/): one HTTP client for any OpenAI-compatible server, and a llama-bench wrapper that runs two builds in both orders. MIT licence.
+
 ## Issues welcome
 
 If a number looks wrong, if you get different results on the same hardware, or if you would like a model or an engine measured, open an issue.
 
 ## License
 
-Text and tables are under [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/): reuse them freely, with a link back.
+Text and tables in the posts are under [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/): reuse them freely, with a link back.
