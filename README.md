@@ -6,6 +6,7 @@ Measurements and write-ups from a Framework Desktop (AMD Ryzen AI Max+ 395, "Str
 
 | Date | Post | Topics |
 |---|---|---|
+| 2026-11-26 | [AMD Loom vs llama.cpp Vulkan: twice the prefill, no faster decode](posts/2026-11-26-loom-vs-llamacpp.md) | Loom 0.2.0, llama.cpp b11344, DFlash and MTP drafts, Ornith 1.5 35B |
 | 2026-11-24 | [Local French text-to-speech: which models can read a number?](posts/2026-11-24-french-tts-numbers.md) | Phonon, ZONOS3-Mini, Qwen3-TTS, Fish S2 Pro, Piper, Pocket TTS, NeuTTS, MOSS-TTS, whisper as a referee |
 | 2026-11-24 | [Strix Halo inference engines, measured on one box](posts/2026-11-24-inference-engines-compared.md) | Halogen, hipEngine, AMD HRX, llama.cpp Vulkan, Inkling 2 Mini, Gemma 4, benchmarking traps |
 
